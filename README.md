@@ -20,9 +20,9 @@ We use 4 main features for clustering:
 ## Cluster Centers
 After clustering, we get the center of each group. These are the average values of each cluster:
 
-Cluster 0 center: 0.2417, 0.6084, 0.0687, 0.2653
-Cluster 1 center: 0.5615, 0.2265, 0.0681, 0.6641
-Cluster 2 center: 0.6109, 0.6708, 0.0640, 0.3191
+- Cluster 0 center: 0.2417, 0.6084, 0.0687, 0.2653
+- Cluster 1 center: 0.5615, 0.2265, 0.0681, 0.6641
+- Cluster 2 center: 0.6109, 0.6708, 0.0640, 0.3191
 
 ## Graph
 We made a simple scatter plot.
